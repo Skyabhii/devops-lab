@@ -1,2 +1,1 @@
-Devops Lab
-26/08/2026
+Devops Lab Day 2 
